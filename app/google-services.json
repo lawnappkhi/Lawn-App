@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "290881147566",
+    "firebase_url": "https://lawn-app-bda18.firebaseio.com",
+    "project_id": "lawn-app-bda18",
+    "storage_bucket": "lawn-app-bda18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290881147566:android:4ec69ecdb7e66b6e46d33f",
+        "android_client_info": {
+          "package_name": "com.lawnappkhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290881147566-c37tbcb9k701hhrhtfpbaut9ugp9ll6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV7dvnUsNFG9vTNTxoHfqUIG4styHHKtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290881147566-c37tbcb9k701hhrhtfpbaut9ugp9ll6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

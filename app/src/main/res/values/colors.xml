@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f2f2f2</color>
+    <color name="colorPrimaryDark">#ff008aff</color>
+    <color name="colorAccent">#ff008aff</color>
+    <color name="action_mode">@color/colorPrimary</color>
+    <color name="textColorPrimary">@color/appLogo</color>
+    <color name="appLogo">#ff008aff</color>
+
+    <!-- generic -->
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="darker_gray">#363636</color>
+    <color name="light_gray">#efefef</color>
+    <color name="orange">#fff58220</color>
+    <color name="red">#ffff0000</color>
+
+    <color name="activity_background">#ffeeeeee</color>
+
+    <color name="overlay">#26eeeeee</color>
+</resources>

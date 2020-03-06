@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lawn App</string>
+    <string name="title_about"/>
+    <string name="title_lawn_detail">Lawn Detail</string>
+    <string name="title_home">Lawn App</string>
+
+    <string name="select_patient">Select Patient</string>
+    <string name="about">About Us</string>
+    <string name="content_description" />
+
+    <string name="menu_call">Call</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_email">Email</string>
+    <string name="no_contacts">No contact details found</string>
+    <string name="no_emails">No email details found</string>
+
+    <string name="edit_profile"><u>Edit Profile</u></string>
+    <string name="network_not_connected">Please check your internet connection</string>
+</resources>
